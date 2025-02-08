@@ -27,4 +27,3 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: dscidyy/dsci310-ia3-dscidyy-docker:latest
-
